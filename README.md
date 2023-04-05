@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **flutter ,dart,c language**
 
-- 📫 How to reach me **jebascene1@gmail.com**
+- 📫 How to reach me **https://linktr.ee/sanjeay**
 
 - ⚡ Fun fact **who reads .send me code**
 
